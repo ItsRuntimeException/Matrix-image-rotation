@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=radians
+comment0.target=double[][]\ rotationMatrix(double)
+comment1.params=img
+comment1.target=void\ rotated(java.awt.image.BufferedImage)
+comment2.params=img
+comment2.target=int[][]\ getImageMatrix(java.awt.image.BufferedImage)
+numComments=3
